@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Autres fichiers à exclure
+*.rar
+*.log
+*.bak
